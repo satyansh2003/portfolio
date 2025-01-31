@@ -10,7 +10,6 @@ const Hero = () => (
       <SectionTitle main center>
         Welcome To <br/>
         My Portfolio
-        My Portfolio
       </SectionTitle>
       <SectionText>
       Passionate about crafting innovative digital experiences, I am SATYANSH KUMAR, a Computer Science and Engineering student with a keen interest in web development, software engineering, and problem-solving. From building modern web applications to working on interdisciplinary projects, I thrive on creating impactful solutions. Explore my portfolio to discover my journey, projects, and skills that reflect my commitment to technology and continuous learning.
