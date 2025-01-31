@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Smart Home Automation Dashboard',
     description:"This project focuses on developing a user-friendly smart home automation dashboard that enables homeowners to seamlessly control and monitor their interconnected devices. With a centralized interface, users can manage home security, optimize energy efficiency, and enhance overall convenience. The intuitive design ensures accessibility for all users, transforming living spaces into smart, secure, and efficient environments.",
-    image: '/images/2.png',
+    image: 'https://satyansh2003.github.io/portfolio/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
     visit: 'https://github.com/satyansh2003/smarthome',
@@ -20,8 +20,8 @@ export const projects = [
   {
     title: 'Resume generator website',
     description: "This project aims to develop a user-friendly and dynamic resume builder web application, enabling individuals to create professional resumes effortlessly. Built with HTML, CSS, and JavaScript, it will offer seamless customization, intuitive design features, and real-time preview capabilities for an efficient and engaging user experience.",
-      image: '/images/3.png',
-      tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+    image: 'https://satyansh2003.github.io/portfolio/images/3.png',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
     source: 'https://resume-builder-five-eta.vercel.app/',
     visit: 'https://github.com/satyansh2003/Resume-Builder',
     id: 2,
