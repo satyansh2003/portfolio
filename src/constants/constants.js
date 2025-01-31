@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Job Portal',
     description: "The current job market struggles with inefficient and outdated job portals, leading to missed opportunities and poor user experience. This project aims to develop a modern, user-friendly job portal using the MERN stack (MongoDB, Express.js, React.js, Node.js) to streamline job matching, enabling seamless job search and application management for both job seekers and employers.",
-      image: '/images/1.png',
+      image: 'https://satyansh2003.github.io/portfolio/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
     visit: 'https://github.com/satyansh2003/Job-portal',
